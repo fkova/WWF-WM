@@ -1,0 +1,2 @@
+obj\Debug\_WF4.g.cs
+obj\Debug\workflow2.g.cs
